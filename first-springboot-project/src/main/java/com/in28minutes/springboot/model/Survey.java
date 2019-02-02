@@ -6,7 +6,7 @@ public class Survey {
 	private String id;
 	private String title;
 	private String description;
-	private String str;
+	private int no;
 	private List<Question> questions;
 
 	public Survey(String id, String title, String description,

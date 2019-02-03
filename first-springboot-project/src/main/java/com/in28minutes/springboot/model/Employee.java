@@ -3,6 +3,7 @@ package com.in28minutes.springboot.model;
 public class Employee {
 
 	private int id;
+	private String abc;
 	private String name;
 	public int getId() {
 		return id;
